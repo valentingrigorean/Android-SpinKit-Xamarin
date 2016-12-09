@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinKit", "SkinKit\SkinKit.csproj", "{0B3A5493-A6CA-44FB-859C-E23DBD78089C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinKitTest", "SkinKitTest\SkinKitTest.csproj", "{84153E35-AD6F-4CAC-89E1-D0AA5357F773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3A5493-A6CA-44FB-859C-E23DBD78089C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3A5493-A6CA-44FB-859C-E23DBD78089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3A5493-A6CA-44FB-859C-E23DBD78089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3A5493-A6CA-44FB-859C-E23DBD78089C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84153E35-AD6F-4CAC-89E1-D0AA5357F773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84153E35-AD6F-4CAC-89E1-D0AA5357F773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84153E35-AD6F-4CAC-89E1-D0AA5357F773}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{84153E35-AD6F-4CAC-89E1-D0AA5357F773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84153E35-AD6F-4CAC-89E1-D0AA5357F773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84153E35-AD6F-4CAC-89E1-D0AA5357F773}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
